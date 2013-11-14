@@ -13,6 +13,7 @@ import javax.inject.Inject
  * Time: 12:41 PM
  */
 
+
 @ContextConfiguration(classes = [GroovyConfig.class])
 class HRServiceSpec extends Specification {
     @Inject
